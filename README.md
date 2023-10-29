@@ -17,7 +17,7 @@ Ran a successful web development agency serving over 130 clients
 I'm the founder of Atom AI, a company that harnesses the power of advanced data analysis and virtual assistance. Our mission is to utilize the power of artificial intelligence to benefit students, businesses, and governments. 
 
 📯 **French Horn**:
-I've been a dedicated French horn player for the past 8 years, Winning achievements at the international level
+I've been a dedicated French horn player for the past 8 years, winning awards at the international level
 
 ## What I'm Passionate About
 

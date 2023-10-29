@@ -1,3 +1,5 @@
+<img width="1699" alt="Screenshot 2023-10-28 at 11 01 44 PM" src="https://github.com/connor-engelsberg/connor-engelsberg/assets/149274430/11f8854d-8b9e-4a80-a937-5bbcf077e72e">
+
 # Hello, I'm Connor 👋
 
 I'm a passionate student and tech enthusiast! Here's a bit about me:

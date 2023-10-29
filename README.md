@@ -2,10 +2,6 @@
 
 I'm a passionate student and tech enthusiast! Here's a bit about me:
 
-## Background
-
-🎓 I'm currently a student, constantly seeking opportunities to learn, grow, and contribute significantly to the world around me
-
 ## Past Achievements
 
 🚀 **Connect University**:

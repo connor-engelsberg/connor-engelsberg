@@ -7,9 +7,6 @@ I'm a passionate student and tech enthusiast! Here's a bit about me:
 🚀 **Connect University**:
 I founded and successfully sold an educational platform called Connect University. It served over 32,000 students and generating a remarkable 5,400+ monthly visits. 
 
-💻 **Web Development**:
-Ran a successful web development agency serving over 130 clients
-
 ## Present Endeavors
 
 

@@ -23,8 +23,6 @@ I'm deeply passionate about music, technology, and innovation.
 
 [![Connor's GitHub stats](https://github-readme-stats.vercel.app/api?username=connor-engelsberg&show_icons=true&theme=radical)](https://github.com/connor-engelsberg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=connor-engelsberg&langs_count=5&layout=compact&theme=radical&hide=jupyter%20notebook)
-
 ## Get in Touch
 
 📫 You can reach out to me via email at [connor@atomaisolutions.com](mailto:connor@atomaisolutions.com).

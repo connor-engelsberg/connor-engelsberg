@@ -19,10 +19,6 @@ I've been a dedicated French horn player for the past 8 years, winning awards at
 
 I'm deeply passionate about music, technology, and innovation.
 
-## GitHub Stats
-
-[![Connor's GitHub stats](https://github-readme-stats.vercel.app/api?username=connor-engelsberg&show_icons=true&theme=radical)](https://github.com/connor-engelsberg)
-
 ## Get in Touch
 
 📫 You can reach out to me via email at [connor@atomaisolutions.com](mailto:connor@atomaisolutions.com).

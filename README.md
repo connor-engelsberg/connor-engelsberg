@@ -9,7 +9,7 @@ I founded and successfully sold an educational platform called Connect Universit
 
 ## Present Endeavors
 
-🤖 **Atom AI**:
+🤖 **Atom**:
 I'm the founder of Atom AI, a company that harnesses the power of advanced data analysis and virtual assistance. Our mission is to utilize the power of artificial intelligence to benefit students, businesses, and governments.
 
 📯 **French Horn**:

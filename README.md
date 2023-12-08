@@ -17,7 +17,7 @@ I've been a dedicated French horn player for the past 8 years, winning awards at
 
 ## What I'm Passionate About
 
-I'm deeply passionate about music, technology, and innovation.
+I'm deeply passionate about music and computer science.
 
 ## Get in Touch
 
